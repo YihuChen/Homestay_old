@@ -1,0 +1,81 @@
+/* 
+  localizable.strings
+  Homestay_swift
+
+  Created by 陈毅琥 on 2020/8/12.
+  Copyright © 2020 陈毅琥. All rights reserved.
+*/
+
+//首页
+"check_in_registration_title" = "入住登记";
+"check_out_registration_title" = "退房登记";
+"today_check_in_amount_title" = "今日入住数";
+"today_check_out_amount_title" = "今日退房数";
+"spare_room_amount_title" = "空闲房间数";
+"check_room_title" = "查看房间";
+"check_customer_title" = "查看人员";
+"change_pasd_title" = "修改密码";
+"about_us_title" = "关于我们";
+"version_update_title" = "版本升级";
+
+//房间管理
+"room_manage_title" = "房间管理";
+"operation_record_title" = "操作记录";
+"room_modify_title" = "修改";
+"room_delete_title" = "删除";
+"operation_room_delete_title" = "删除房间";
+"operation_room_modify_title" = "修改房间号";
+"operation_room_insert_title" = "新增房间";
+"operation_check_out_title" = "退房";
+"operation_check_in_title" = "入住";
+
+//人员记录
+"customer_record_title" = "人员记录";
+"all_title" = "全部";
+"not_check_out_yet_title" = "未退房";
+"time_search_title" = "时间搜索";
+"start_time_search_title" = "起始入住时间";
+"end_time_search_title" = "截止入住时间";
+
+//other
+"update_title" = "更新";
+"no_need_update_tip" = "当前版本为最新版本无需更新";
+"back_to_homepage_title" = "返回首页";
+"about_us_content" = "  山人民宿入住登记管理系统（1.0版本）旨在为民宿管理人员提供旅客身份登记、入住去向功能，以及能够获取区域内所有民宿旅客的人员信息和动态。\n  版权归山人科技所有";
+"wrong_orign_pasd_tip" = "原密码错误!";
+"wrong_confirm_pasd_tip" = "两次密码输入不同!";
+"enter_origin_pasd_placeholder" = "请输入原密码";
+"enter_new_pasd_placeholder" = "请输入新密码";
+"enter_confirm_pasd_placeholder" = "请再次输入密码";
+"confirm_title" = "确认";
+
+//registration
+"check_in_success_tip" = "入住成功";
+"check_out_success_tip" = "退房成功";
+"room_number_title" = "房间号";
+"name_title" = "姓名";
+"check_out_time_title" = "退房时间";
+"check_in_time_title" = "入住时间";
+"input_room_number_placeholder" = "请输入房间号";
+"room_number_not_exist_tip" = "无该房间号";
+"room_check_in_confirm_tip" = "该房间已有旅客，是否继续入住？";
+"id_card_title" = "身份证号";
+"customer_detail_info_title" = "人员详情";
+"confirm_check_in_title" = "确认入住";
+
+//login
+"input_account_placeholder" = "请输入账号";
+"input_pasd_placeholder" = "请输入密码";
+"login_title" = "登录";
+"homestay_info_title" = "场所信息";
+"homestay_type_title" = "场所类型";
+"homestay_name_title" = "场所名称";
+"owner_name_title" = "负责人姓名";
+"contact_title" = "联系方式";
+"homestay_address_title" = "场所地址";
+"confirm_activate_title" = "确认激活";
+"wrong_info_title" = "信息有误";
+
+//tip
+"tip_title" = "提示";
+"room_at_capacity_tip_title" = "房间已住满！";

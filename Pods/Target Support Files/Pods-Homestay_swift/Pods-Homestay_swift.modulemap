@@ -1,0 +1,6 @@
+module Pods_Homestay_swift {
+  umbrella header "Pods-Homestay_swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
